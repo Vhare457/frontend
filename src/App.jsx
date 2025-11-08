@@ -4,7 +4,7 @@ import JobSeekerMessages from "./pages/jobSeeker/Messages";
 import { MyApplications } from "./pages/jobSeeker/MyApplications";
 import { JobSeekerProfile } from "./pages/jobSeeker/JobSeekerProfile";
 import { JobSeekerInterviews } from "./pages/jobSeeker/JobSeekerInterviews";
-import { Login } from "./pages/auth/login";
+import { Login } from "./pages/auth/Login";
 import { ProfileCreation } from "./pages/auth/ProfileCreation";
 import { PasswordReset } from "./pages/auth/PasswordReset";
 import { EmployerProfileCreation } from "./pages/auth/EmployerProfileCreation";
